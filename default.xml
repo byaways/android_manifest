@@ -40,7 +40,7 @@
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" groups="device" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="device" />
   <project path="device/sample" name="device/sample" groups="pdk" />
-  <project path="device/samsung/aries-common" name="SuperNexus/android_device_samsung_aries-common" remote="github" revision="kitkat" />
+  <project path="device/samsung/aries-common" name="byaways/android_device_samsung_aries-common" remote="github" revision="kitkat" />
   <project path="device/samsung/galaxysmtd" name="SuperNexus/android_device_samsung_galaxysmtd" remote="github" revision="kitkat" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="platform/external/aac" groups="pdk" />
@@ -431,7 +431,7 @@
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" groups="pdk" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" groups="pdk,tools" />
   <project path="sdk" name="platform/sdk" />
-  <project path="system/core" name="SuperNexus/android_system_core" remote="github" revision="kitkat" />
+  <project path="system/core" name="byaways/android_system_core" remote="github" revision="kitkat" />
   <project path="system/extras" name="SuperNexus/android_system_extras" remote="github" revision="kitkat" />
   <project path="system/media" name="SuperNexus/android_system_media" remote="github" revision="kitkat" />
   <project path="system/netd" name="SuperNexus/android_system_netd" remote="github" revision="kitkat" />
