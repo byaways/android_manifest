@@ -251,7 +251,7 @@
   <project path="external/zlib" name="SuperNexus/android_external_zlib" remote="github" revision="kitkat" />
   <project path="external/zxing" name="platform/external/zxing" />
   <project path="frameworks/av" name="CyanogenMod/android_frameworks_av" remote="github" revision="cm-11.0" />
-  <project path="frameworks/base" name="SuperNexus/android_frameworks_base" remote="github" revision="kitkat" />
+  <project path="frameworks/base" name="byaways/android_frameworks_base" remote="github" revision="kitkat" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" />
   <project path="frameworks/compile/slang" name="SuperNexus/android_frameworks_compile_slang" remote="github" revision="kitkat" />
@@ -346,7 +346,7 @@
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" />
   <project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" remote="github" revision="cm-11.0" />
-  <project path="packages/apps/Settings" name="SuperNexus/android_packages_apps_Settings" remote="github" revision="kitkat" />
+  <project path="packages/apps/Settings" name="byaways/android_packages_apps_Settings" remote="github" revision="kitkat" />
   <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" />
   <project path="packages/apps/SoundRecorder" name="SuperNexus/android_packages_apps_SoundRecorder" remote="github" revision="kitkat" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" />
