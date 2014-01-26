@@ -363,7 +363,7 @@
   <project path="packages/providers/DownloadProvider" name="platform/packages/providers/DownloadProvider" />
   <project path="packages/providers/MediaProvider" name="SuperNexus/android_packages_providers_MediaProvider" remote="github" revision="kitkat" />
   <project path="packages/providers/PartnerBookmarksProvider" name="platform/packages/providers/PartnerBookmarksProvider" />
-  <project path="packages/providers/TelephonyProvider" name="CyanogenMod/android_packages_providers_TelephonyProvider" remote="github" revision="cm-11.0" />
+  <project path="packages/providers/TelephonyProvider" name="byaways/android_packages_providers_TelephonyProvider" remote="github" revision="cm-11.0" />
   <project path="packages/providers/UserDictionaryProvider" name="platform/packages/providers/UserDictionaryProvider" />
   <project path="packages/screensavers/Basic" name="platform/packages/screensavers/Basic" />
   <project path="packages/screensavers/PhotoTable" name="platform/packages/screensavers/PhotoTable" />
